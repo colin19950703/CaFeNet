@@ -1,4 +1,4 @@
-name: CafeNet
+name: CaFeNet
 channels:
   - pytorch
   - conda-forge
