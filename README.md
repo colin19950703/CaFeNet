@@ -23,7 +23,7 @@ All the models in this project were evaluated on the following datasets:
 
 ```
 conda env create -file environment.yml
-conda activate CafeNet
+conda activate CaFeNet
 ```
 
 ## Repository Structure
