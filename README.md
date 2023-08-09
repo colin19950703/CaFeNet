@@ -70,7 +70,7 @@ Details of data folder
 ### Model Weights
 
 Model weights obtained from training CaFe-Net here:
-- [Colon checkpoint](-)
+- [Colon checkpoint](https://github.com/colin19950703/CaFeNet/tree/main/pretrained)
 
 If any of the above checkpoints are used, please ensure to cite the corresponding paper.
 
